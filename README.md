@@ -34,7 +34,8 @@ This project provides a comprehensive analysis of product data, focusing on pric
 
 The Primary Data used here is DSA Data Analysis capstone project.xlsx for Amazon case study
 
-DATA CLEANING AND PREPARATIONS
+## DATA CLEANING AND PREPARATIONS
+
 At the preliminary phase of the data cleaning and preparations , I performed the following actions;
 
 ### i. Data loading and inspection
