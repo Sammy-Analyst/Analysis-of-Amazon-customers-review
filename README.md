@@ -58,12 +58,15 @@ This involves exploring of the data to answer some questions such as;
 
 - Top 5 Products (Rating + Reviews)
 
+![image](https://github.com/user-attachments/assets/c4689a03-7003-49a7-937a-9c94d501bb94)
+
+
+![image](https://github.com/user-attachments/assets/8262926f-5e91-4bf1-8308-e4699bd2d972)
+
+
+![image](https://github.com/user-attachments/assets/8f868d25-556a-4a24-a66e-bae44b51b0c3)
+
  
-![Dashboard Overview](C:\Users\solorunfemi\Documents\Amazon.png)
-
-![Dashboard Overview](C:\Users\solorunfemi\Documents\AmazonSecond.png)
-
-![image](https://github.com/user-attachments/assets/300a6991-b507-405c-85d9-5e478e654ab5)
 
 ## DATA ANALYSIS
 
@@ -78,17 +81,17 @@ iii. Top-rated products are not always the most reviewed, indicating potential f
 
 Below is a picture of data visualization using pivot tables/charts in Excel
 
-![Dashboard Overview](C:\Users\solorunfemi\Documents\AmazonThird.png)
+![image](https://github.com/user-attachments/assets/ce9eaf09-54f3-4d14-b92e-6a8f9e933f50)
 
-![Dashboard Overview](C:\Users\solorunfemi\Documents\AmazonFourth.png)
+![image](https://github.com/user-attachments/assets/0bc36748-60be-4197-b23b-f1de368b9d3f)
 
-![Dashboard Overview](C:\Users\solorunfemi\Documents\AmazonFifth.png)
+![image](https://github.com/user-attachments/assets/fd33c741-934e-405e-8e8b-12355d6bf68a)
 
-![Dashboard Overview](C:\Users\solorunfemi\Documents\AmazonSixth.png)
+![image](https://github.com/user-attachments/assets/50ed8970-d4f5-402c-8775-ba2252cb373a)
 
 
 
 ## ✅ RECOMMENDATION:
 
 1. Attention should be prioritised to products such as kitchen heating equipments which had high rating count.
-2. The Top 10 Products with the highest number of reviews should be more focused on.
+2. The Top 10 Products with the highest number of reviews should be focused on.
